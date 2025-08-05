@@ -85,6 +85,12 @@ Backend folder:
 
 sever.js → main server file (runs Express app)
 
+Procedure to Access :
+
+1. npm install
+
+2. node sever.js
+
 # 🌐 Frontend
 Built with React and Vite
 
@@ -99,6 +105,12 @@ Frontend folders:
 
 /src/context/: likely handles global state (e.g., auth)
 
+Procedure to Access :
+
+1. npm install
+
+2. npm run dev
+   
 # 🔁 Workflow
 Admin visits login page → submits credentials.
 
