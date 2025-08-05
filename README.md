@@ -1,1 +1,1 @@
-# Sahyadri-digital-campus-Full-Stack-Development-MERN-STACK-with-Bootstrap-
+# Sahyadri digital campus(Full Stack Development (MERN STACK with Bootstrap))
